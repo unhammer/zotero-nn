@@ -1,11 +1,11 @@
 <!ENTITY zotero.preferences.title "Innstellingar for *Zotero">
-	">
+
 <!ENTITY zotero.preferences.default "Standard:">
 <!ENTITY zotero.preferences.items "*items">
 <!ENTITY zotero.preferences.period ".">
-	">
+
 <!ENTITY zotero.preferences.prefpane.general "Generelt">
-	">
+
 <!ENTITY zotero.preferences.userInterface "Brukargrensesnitt">
 <!ENTITY zotero.preferences.statusBarIcon "Ikon på statuslinje:">
 <!ENTITY zotero.preferences.statusBarIcon.none "Ingen">
@@ -14,7 +14,7 @@
 <!ENTITY zotero.preferences.fontSize.medium "Medium">
 <!ENTITY zotero.preferences.fontSize.large "Stor">
 <!ENTITY zotero.preferences.fontSize.notes "Note font *size:">
-	">
+
 <!ENTITY zotero.preferences.miscellaneous "Diverse">
 <!ENTITY zotero.preferences.autoUpdate "Sjekk automatisk for oppdaterte omsetjarar">
 <!ENTITY zotero.preferences.updateNow "Oppdater no">
@@ -25,20 +25,20 @@
 <!ENTITY zotero.preferences.automaticSnapshots "Ta snapshot automatisk når du genererer element frå nettsider">
 <!ENTITY zotero.preferences.downloadAssociatedFiles "Lager assosierte *PDF-filer og andre filar når du lagrar element">
 <!ENTITY zotero.preferences.automaticTags "Legg til taggar automatisk når element inneheld nøkkel- og *emneord i hovudteksta">
-	">
+
 <!ENTITY zotero.preferences.groups "*Groups">
 <!ENTITY zotero.preferences.groups.whenCopyingInclude "*When *copying *items *between *libraries, *include:">
 <!ENTITY zotero.preferences.groups.childNotes "*child note sin">
 <!ENTITY zotero.preferences.groups.childFiles "*child anda til snapshot *imported vert filt">
 <!ENTITY zotero.preferences.groups.childLinks "*child link sin">
-	">
+
 <!ENTITY zotero.preferences.openurl.caption "Opne *URL">
-	">
+
 <!ENTITY zotero.preferences.openurl.search "Leit etter &*quot;*resolvers&*quot;">
 <!ENTITY zotero.preferences.openurl.custom "*Egendefinert...">
 <!ENTITY zotero.preferences.openurl.server "Resolver:">
 <!ENTITY zotero.preferences.openurl.version "Versjon:">
-	">
+
 <!ENTITY zotero.preferences.prefpane.sync "*Sync">
 <!ENTITY zotero.preferences.sync.username "*Username:">
 <!ENTITY zotero.preferences.sync.password "*Password:">
@@ -63,27 +63,27 @@
 <!ENTITY zotero.preferences.sync.reset.resetFileSyncHistory "*Reset Fila *Sync History">
 <!ENTITY zotero.preferences.sync.reset.resetFileSyncHistory.desc "Force *checking *of *the *storage servar for all *local *attachment filast.">
 <!ENTITY zotero.preferences.sync.reset.button "*Reset...">
-	">
-	">
+
+
 <!ENTITY zotero.preferences.prefpane.search "Søk">
 <!ENTITY zotero.preferences.search.fulltextCache "*Fulltekst-*mellomlager">
 <!ENTITY zotero.preferences.search.pdfIndexing "*PDF-registrering">
 <!ENTITY zotero.preferences.search.indexStats "Registerstatistikk">
-	">
+
 <!ENTITY zotero.preferences.search.indexStats.indexed "Indeksert:">
 <!ENTITY zotero.preferences.search.indexStats.partial "Delvis:">
 <!ENTITY zotero.preferences.search.indexStats.unindexed "Uregistrert:">
 <!ENTITY zotero.preferences.search.indexStats.words "Ord:">
-	">
+
 <!ENTITY zotero.preferences.fulltext.textMaxLength "Maksimalt mengd teikn å registrera per fil:">
 <!ENTITY zotero.preferences.fulltext.pdfMaxPages "Maksimalt mengd sider å registrera per fil:">
-	">
+
 <!ENTITY zotero.preferences.prefpane.export "Eksporter">
-	">
+
 <!ENTITY zotero.preferences.citationOptions.caption "Val for *henvisninger">
 <!ENTITY zotero.preferences.export.citePaperJournalArticleURL "Inkluderer *URL til trykte artiklar i referansane">
 <!ENTITY zotero.preferences.export.citePaperJournalArticleURL.description "Når dette alternativet ikkje er valt, vil *Zotero berre oppgje *URL til tidsskriftet, magasinet eller avisa, dersom artikkelen er registrert utan sidetal.">
-	">
+
 <!ENTITY zotero.preferences.quickCopy.caption "Kvikk-kopi">
 <!ENTITY zotero.preferences.quickCopy.defaultOutputFormat "Standard *utdata-format:">
 <!ENTITY zotero.preferences.quickCopy.copyAsHTML "Kopiar som *HTML">
@@ -93,18 +93,18 @@
 <!ENTITY zotero.preferences.quickCopy.siteEditor.domainPath.example "(t.d. *wikipedia.org)">
 <!ENTITY zotero.preferences.quickCopy.siteEditor.outputFormat "*Utdata-format">
 <!ENTITY zotero.preferences.quickCopy.dragLimit "*Disable *Quick *Copy *when *dragging mora *than">
-	">
-	">
+
+
 <!ENTITY zotero.preferences.prefpane.styles "Stylast">
-	">
+
 <!ENTITY zotero.preferences.styles.styleManager "Styla Manager">
 <!ENTITY zotero.preferences.styles.styleManager.title "*Title">
 <!ENTITY zotero.preferences.styles.styleManager.updated "*Updated">
 <!ENTITY zotero.preferences.styles.styleManager.csl "*CSL">
 <!ENTITY zotero.preferences.export.getAdditionalStyles "Hent fleire stilar...">
-	">
+
 <!ENTITY zotero.preferences.prefpane.keys "*Hurtigtaster">
-	">
+
 <!ENTITY zotero.preferences.keys.openZotero "Opne/lukk *Zotero-panelet">
 <!ENTITY zotero.preferences.keys.toggleFullscreen "*Fullskjerm av/på">
 <!ENTITY zotero.preferences.keys.library "Bibliotek">
@@ -117,9 +117,9 @@
 <!ENTITY zotero.preferences.keys.importFromClipboard "Import from *Clipboard">
 <!ENTITY zotero.preferences.keys.overrideGlobal "Forsøk å overstyra snarvegar i konflikt">
 <!ENTITY zotero.preferences.keys.changesTakeEffect "Endringar gjeld berre for nye vindauge">
-	">
+
 <!ENTITY zotero.preferences.prefpane.proxies "*Proxies">
-	">
+
 <!ENTITY zotero.preferences.proxies.proxyOptions "*Proxy *Options">
 <!ENTITY zotero.preferences.proxies.desc_before_link "*Zotero *will *transparently *redirect *requests *through *saved *proxies. *See *the">
 <!ENTITY zotero.preferences.proxies.desc_link "*proxy *documentation">
@@ -130,7 +130,7 @@
 <!ENTITY zotero.preferences.proxies.configured "*Configured *Proxies">
 <!ENTITY zotero.preferences.proxies.hostname "*Hostname">
 <!ENTITY zotero.preferences.proxies.scheme "*Scheme">
-	">
+
 <!ENTITY zotero.preferences.proxies.multiSite "*Multi-*Site">
 <!ENTITY zotero.preferences.proxies.autoAssociate "*Automatically *associate *new *hosts">
 <!ENTITY zotero.preferences.proxies.variables "*You *may *use *the *following *variables in *your *proxy *scheme:">
@@ -139,25 +139,25 @@
 <!ENTITY zotero.preferences.proxies.d_variable "&#37;d - *The *directory *path (e.g., *about/)">
 <!ENTITY zotero.preferences.proxies.f_variable "&#37;f - *The *filename (e.g., *index.*html)">
 <!ENTITY zotero.preferences.proxies.a_variable "&#37;a - *Any *string">
-	">
+
 <!ENTITY zotero.preferences.prefpane.advanced "Avansert">
-	">
+
 <!ENTITY zotero.preferences.charset "*Character *Encoding">
 <!ENTITY zotero.preferences.charset.importCharset "Import *Character *Encoding">
 <!ENTITY zotero.preferences.charset.displayExportOption "Display *character *encoding *option *on *export">
-	">
+
 <!ENTITY zotero.preferences.dataDir "*Lagringsplass">
 <!ENTITY zotero.preferences.dataDir.useProfile "Bruk *profilmappa til *Firefox.">
 <!ENTITY zotero.preferences.dataDir.custom "*Egendefinert:">
 <!ENTITY zotero.preferences.dataDir.choose "Vel...">
 <!ENTITY zotero.preferences.dataDir.reveal "Vis *datamappe">
-	">
+
 <!ENTITY zotero.preferences.dbMaintenance "Vedlikehald av database">
 <!ENTITY zotero.preferences.dbMaintenance.integrityCheck "Kontrollar databasen">
 <!ENTITY zotero.preferences.dbMaintenance.resetTranslatorsAndStyles "Nullstill omsetjarar og stilar...">
 <!ENTITY zotero.preferences.dbMaintenance.resetTranslators "Nullstill omsetjarar...">
 <!ENTITY zotero.preferences.dbMaintenance.resetStyles "Nullstill stilar...">
-	">
+
 <!ENTITY zotero.preferences.debugOutputLogging "*Debug Output *Logging">
 <!ENTITY zotero.preferences.debugOutputLogging.message "*Debug output *can *help *Zotero *developers diagnose problem sitt in *Zotero. *Debug *logging *will *slow *down *Zotero, *so *you *should *generally *leave it *disabled *unless a *Zotero *developer *requests *debug output.">
 <!ENTITY zotero.preferences.debugOutputLogging.linesLogged "line si *logged">
