@@ -58,7 +58,7 @@
 <!ENTITY zotero.items.menu.showInLibrary "Vis i bibliotek">
 <!ENTITY zotero.items.menu.attach.note "Legg til notat">
 <!ENTITY zotero.items.menu.attach "Add Attachment">
-<!ENTITY zotero.items.menu.attach.snapshot "Legg til snapshot av gjeldande side">
+<!ENTITY zotero.items.menu.attach.snapshot "Legg til augneblinksbilete av gjeldande side">
 <!ENTITY zotero.items.menu.attach.link "Legg til lenkje til gjeldande side">
 <!ENTITY zotero.items.menu.attach.file "Attach Stored Copy of Fila...">
 <!ENTITY zotero.items.menu.attach.fileLink "Attach Link to Fila...">
@@ -102,7 +102,7 @@
 <!ENTITY zotero.toolbar.attachment.linked "Lenkje til fil...">
 <!ENTITY zotero.toolbar.attachment.add "Lagre kopi av fil...">
 <!ENTITY zotero.toolbar.attachment.weblink "Lagre lenkje til gjeldande side">
-<!ENTITY zotero.toolbar.attachment.snapshot "Lag snapshot av gjeldande side">
+<!ENTITY zotero.toolbar.attachment.snapshot "Lag augneblinksbilete av gjeldande side">
 
 <!ENTITY zotero.tagSelector.noTagsToDisplay "Ingen taggar finst">
 <!ENTITY zotero.tagSelector.filter "Filter:">
