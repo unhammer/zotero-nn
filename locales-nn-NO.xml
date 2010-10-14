@@ -16,7 +16,7 @@
       <term name="and">og</term>
       <term name="and others">med fleire</term>
       <term name="anonymous">anonym</term>
-      <term name="anonymous" form="short">anon</term>
+      <term name="anonymous" form="short">anon.</term>
       <term name="at">på</term>
       <term name="by">av</term>
       <term name="circa">circa</term>
@@ -182,20 +182,20 @@
          <single>s.</single>
          <multiple>s.</multiple>
       </term>
-      <term name="paragraph" form="short">avsn</term>
-      <term name="part" form="short">d</term>
-      <term name="section" form="short">par</term>
+      <term name="paragraph" form="short">avsn.</term>
+      <term name="part" form="short">d.</term>
+      <term name="section" form="short">par.</term>
       <term name="sub verbo" form="short">
          <single>s.v</single>
          <multiple>s.vv</multiple>
       </term>
       <term name="verse" form="short">
-         <single>v</single>
-         <multiple>v</multiple>
+         <single>v.</single>
+         <multiple>v.</multiple>
       </term>
       <term name="volume" form="short">
-         <single>bd</single>
-         <multiple>bd</multiple>
+         <single>bd.</single>
+         <multiple>bd.</multiple>
       </term>
 
       <!-- SYMBOL LOCATOR FORMS -->
@@ -261,7 +261,7 @@
       <term name="interviewer" form="verb">intervjua av</term>
 
       <!-- SHORT VERB ROLE FORMS -->
-      <term name="container-author" form="verb-short">av</term>
+      <term name="container-author" form="verb-short">av.</term>
       <term name="editor" form="verb-short">red.</term>
       <term name="editorial-director" form="verb-short">red.</term>
       <term name="translator" form="verb-short">oms.</term>
@@ -282,23 +282,23 @@
       <term name="month-12">desember</term>
 
       <!-- SHORT MONTH FORMS -->
-      <term name="month-01" form="short">jan</term>
-      <term name="month-02" form="short">feb</term>
-      <term name="month-03" form="short">mar</term>
-      <term name="month-04" form="short">apr</term>
-      <term name="month-05" form="short">mai</term>
-      <term name="month-06" form="short">jun</term>
-      <term name="month-07" form="short">jul</term>
-      <term name="month-08" form="short">aug</term>
-      <term name="month-09" form="short">sep</term>
-      <term name="month-10" form="short">okt</term>
-      <term name="month-11" form="short">nov</term>
-      <term name="month-12" form="short">des</term>
+      <term name="month-01" form="short">jan.</term>
+      <term name="month-02" form="short">feb.</term>
+      <term name="month-03" form="short">mar.</term>
+      <term name="month-04" form="short">apr.</term>
+      <term name="month-05" form="short">mai.</term>
+      <term name="month-06" form="short">jun.</term>
+      <term name="month-07" form="short">jul.</term>
+      <term name="month-08" form="short">aug.</term>
+      <term name="month-09" form="short">sep.</term>
+      <term name="month-10" form="short">okt.</term>
+      <term name="month-11" form="short">nov.</term>
+      <term name="month-12" form="short">des.</term>
 
       <!-- SEASONS -->
-      <term name="season-01">vår</term>
-      <term name="season-02">sommar</term>
-      <term name="season-03">haust</term>
-      <term name="season-04">vinter</term>
+      <term name="season-01">vår.</term>
+      <term name="season-02">sommar.</term>
+      <term name="season-03">haust.</term>
+      <term name="season-04">vinter.</term>
    </terms>
 </locale>
