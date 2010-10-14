@@ -1,6 +1,9 @@
-Nynorskomsetjing av Zotero, via apertium nb-nn_a-cp. Har så langt
-ikkje hatt manuell gjennomgang.
+Nynorskomsetjing av Zotero, via apertium nb-nn_a-cp, så manuell retting
 
-Filer med .u har ikkje * føre ukjende ord.
+Filer i mappa unknown-word-marked er direkte frå apertium, med stjerne
+føre ukjende ord.
 
-Bokmålsfilene ligg på https://www.zotero.org/svn/extension/trunk/chrome/locale/nb-NO/zotero/ 
+Mappa nb held ei oppdatert locales-fil for bokmål.
+
+
+Dei opphavlege bokmålsfilene ligg på https://www.zotero.org/svn/extension/trunk/chrome/locale/nb-NO/zotero/ 
