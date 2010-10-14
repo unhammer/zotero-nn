@@ -296,9 +296,9 @@
       <term name="month-12" form="short">des.</term>
 
       <!-- SEASONS -->
-      <term name="season-01">vår.</term>
-      <term name="season-02">sommar.</term>
-      <term name="season-03">haust.</term>
-      <term name="season-04">vinter.</term>
+      <term name="season-01">vår</term>
+      <term name="season-02">sommar</term>
+      <term name="season-03">haust</term>
+      <term name="season-04">vinter</term>
    </terms>
 </locale>

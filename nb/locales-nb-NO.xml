@@ -16,7 +16,7 @@
       <term name="and">og</term>
       <term name="and others">med flere</term>
       <term name="anonymous">anonym</term>
-      <term name="anonymous" form="short">anon</term>
+      <term name="anonymous" form="short">anon.</term>
       <term name="at">på</term>
       <term name="by">av</term>
       <term name="circa">circa</term>
@@ -171,7 +171,7 @@
       </term>
 
       <!-- SHORT LOCATOR FORMS -->
-      <term name="book" form="short">b</term>
+      <term name="book" form="short">b.</term>
       <term name="chapter" form="short">kap.</term>
       <term name="column" form="short">kol.</term>
       <term name="figure" form="short">fig.</term>
@@ -182,20 +182,20 @@
          <single>s.</single>
          <multiple>s.</multiple>
       </term>
-      <term name="paragraph" form="short">avsn</term>
-      <term name="part" form="short">d</term>
-      <term name="section" form="short">pargr</term>
+      <term name="paragraph" form="short">avsn.</term>
+      <term name="part" form="short">d.</term>
+      <term name="section" form="short">pargr.</term>
       <term name="sub verbo" form="short">
          <single>s.v</single>
          <multiple>s.vv</multiple>
       </term>
       <term name="verse" form="short">
-         <single>v</single>
-         <multiple>v</multiple>
+         <single>v.</single>
+         <multiple>v.</multiple>
       </term>
       <term name="volume" form="short">
-         <single>bd</single>
-         <multiple>bd</multiple>
+         <single>bd.</single>
+         <multiple>bd.</multiple>
       </term>
 
       <!-- SYMBOL LOCATOR FORMS -->
@@ -261,7 +261,7 @@
       <term name="interviewer" form="verb">intervjuet av</term>
 
       <!-- SHORT VERB ROLE FORMS -->
-      <term name="container-author" form="verb-short">av</term>
+      <term name="container-author" form="verb-short">av.</term>
       <term name="editor" form="verb-short">red.</term>
       <term name="editorial-director" form="verb-short">red.</term>
       <term name="translator" form="verb-short">overs.</term>
