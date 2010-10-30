@@ -1,9 +1,20 @@
-Nynorskomsetjing av Zotero, via apertium nb-nn_a-cp, så manuell retting
+EN:
+Norwegian (Nynorsk) translation for Zotero, based on Norwegian (Bokmål) translation run through apertium nb-nn_a-cp and then manually corrected by Kevin Brubeck Unhammer and Guttorm Flatabø.
 
-Filer i mappa unknown-word-marked er direkte frå apertium, med stjerne
+The folder named "unknown-word-marked" contains raw translations directly from Apertium with a star in front of words not recognized.
+
+The "nb" folder contains an updated locales-nb-NO.xml
+
+The original nb-NO translation fetched from: https://www.zotero.org/svn/extension/trunk/chrome/locale/nb-NO/zotero/
+
+-------------------------
+
+NN:
+Nynorskomsetjing av Zotero, via apertium nb-nn_a-cp, så manuelt retta
+
+Filer i mappa unknown-word-marked er direkte frå Apertium, med stjerne
 føre ukjende ord.
 
 Mappa nb held ei oppdatert locales-fil for bokmål.
 
-
-Dei opphavlege bokmålsfilene ligg på https://www.zotero.org/svn/extension/trunk/chrome/locale/nb-NO/zotero/ 
+Dei opphavlege bokmålsfilene ligg på https://www.zotero.org/svn/extension/trunk/chrome/locale/nb-NO/zotero/
