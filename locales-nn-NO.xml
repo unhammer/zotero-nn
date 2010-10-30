@@ -85,7 +85,7 @@
       <term name="botany">botanikk</term>
       <term name="chemistry">kjemi</term>
       <term name="engineering">ingeniørvitskap</term>
-      <term name="generic-base">generic base</term>
+      <term name="generic-base">generell</term>
       <term name="geography">geografi</term>
       <term name="geology">geologi</term>
       <term name="history">historie</term>
@@ -115,7 +115,7 @@
       </term>
       <term name="column">
          <single>kolonne</single>
-         <multiple>kolenner</multiple>
+         <multiple>kolonner</multiple>
       </term>
       <term name="figure">
          <single>figur</single>
@@ -159,7 +159,7 @@
       </term>
       <term name="sub verbo">
          <single>sub verbo</single>
-         <multiple>s.vv</multiple>
+         <multiple>s.vv.</multiple>
       </term>
       <term name="verse">
          <single>vers</single>
@@ -171,7 +171,7 @@
       </term>
 
       <!-- SHORT LOCATOR FORMS -->
-      <term name="book" form="short">b</term>
+      <term name="book" form="short">b.</term>
       <term name="chapter" form="short">kap.</term>
       <term name="column" form="short">kol.</term>
       <term name="figure" form="short">fig.</term>
@@ -186,8 +186,8 @@
       <term name="part" form="short">d.</term>
       <term name="section" form="short">par.</term>
       <term name="sub verbo" form="short">
-         <single>s.v</single>
-         <multiple>s.vv</multiple>
+         <single>s.v.</single>
+         <multiple>s.vv.</multiple>
       </term>
       <term name="verse" form="short">
          <single>v.</single>
@@ -261,7 +261,7 @@
       <term name="interviewer" form="verb">intervjua av</term>
 
       <!-- SHORT VERB ROLE FORMS -->
-      <term name="container-author" form="verb-short">av.</term>
+      <term name="container-author" form="verb-short">av</term>
       <term name="editor" form="verb-short">red.</term>
       <term name="editorial-director" form="verb-short">red.</term>
       <term name="translator" form="verb-short">oms.</term>
@@ -286,7 +286,7 @@
       <term name="month-02" form="short">feb.</term>
       <term name="month-03" form="short">mar.</term>
       <term name="month-04" form="short">apr.</term>
-      <term name="month-05" form="short">mai.</term>
+      <term name="month-05" form="short">mai</term>
       <term name="month-06" form="short">jun.</term>
       <term name="month-07" form="short">jul.</term>
       <term name="month-08" form="short">aug.</term>
