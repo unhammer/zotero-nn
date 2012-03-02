@@ -1,3 +1,6 @@
+Deprecated, don't use this. See https://github.com/zotero and https://github.com/citation-style-language
+
+
 EN:
 Norwegian (Nynorsk) translation for Zotero, based on Norwegian (Bokmål) translation run through apertium nb-nn_a-cp and then manually corrected by Kevin Brubeck Unhammer and Guttorm Flatabø.
 
